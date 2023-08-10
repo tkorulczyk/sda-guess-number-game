@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="src/project_desc/img/AI-generated-dice.png?raw=true" alt="AI Generated Dice" title="AI Generated Dice" align="center">
-</p>
 **Disclaimer:** The image was generated using artificial intelligence and, as such, is not subject to copyright protection.
+</p>
 
 ## About the Game
 The Guess Number Game was crafted as part of the Java Fundamentals course provided by the Software Development Academy. The user must guess a number within a range set by the system. With each guess, the system provides feedback on whether the guess is too high, too low, or correct. The goal is to guess the number in the fewest attempts possible.
