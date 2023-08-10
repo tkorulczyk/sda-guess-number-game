@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="src/project_desc/img/AI-generated-dice.png?raw=true" alt="AI Generated Dice" title="AI Generated Dice" align="center">
+
 **Disclaimer:** The image was generated using artificial intelligence and, as such, is not subject to copyright protection.
 </p>
 
